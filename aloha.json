@@ -1,0 +1,76 @@
+{
+  "title": "WebAwesome Documentation",
+  "description": "Comprehensive documentation for WebAwesome - the official web component library from Font Awesome. 50+ fully customizable UI components for modern web applications.",
+  "version": "3.0.0-beta.6",
+  "logo": "",
+  "navigation": {
+    "order": [
+      "getting-started",
+      "components",
+      "theming",
+      "guides"
+    ],
+    "sections": {
+      "getting-started": {
+        "title": "Getting Started",
+        "icon": "rocket",
+        "description": "Essential guides to get up and running with WebAwesome",
+        "order": [
+          "introduction",
+          "installation",
+          "quick-start",
+          "usage"
+        ]
+      },
+      "components": {
+        "title": "Components",
+        "icon": "cube",
+        "description": "Complete reference for all 52 WebAwesome components"
+      },
+      "theming": {
+        "title": "Theming",
+        "icon": "palette",
+        "description": "Comprehensive customization system - colors, typography, spacing, and more",
+        "order": [
+          "colors",
+          "typography",
+          "spacing",
+          "borders",
+          "shadows",
+          "transitions",
+          "focus"
+        ]
+      },
+      "guides": {
+        "title": "Guides",
+        "icon": "book",
+        "description": "In-depth guides for advanced topics and best practices",
+        "order": [
+          "form-controls",
+          "customizing",
+          "best-practices"
+        ]
+      }
+    }
+  },
+  "search": {
+    "enabled": true,
+    "indexFiles": true
+  },
+  "repository": {
+    "url": "https://github.com/shoelace-style/webawesome",
+    "type": "github"
+  },
+  "links": {
+    "official": "https://webawesome.com",
+    "github": "https://github.com/shoelace-style/webawesome",
+    "twitter": "https://twitter.com/webawesomer"
+  },
+  "metadata": {
+    "framework": "WebAwesome",
+    "language": "en",
+    "category": "Web Components",
+    "tags": ["web-components", "ui-library", "font-awesome", "components", "design-system"],
+    "license": "MIT"
+  }
+}
